@@ -11,3 +11,4 @@ dao.selectOne(('java2',)) # 인자는 튜플 형태로
 
 # 회원삭제
 dao.deleteUser(('pytest01',))
+
